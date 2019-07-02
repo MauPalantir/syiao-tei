@@ -1,0 +1,17 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+  <fileDesc>
+    <titleStmt>
+     <title>Syiao Mei to Hungarian Dictionary</title>
+      <author><persName>Ábrahám Zsófia Mau</persName></author>
+    </titleStmt>
+    <publicationStmt>
+     <p>Original digital text, published by the creator of the language.</p>
+    </publicationStmt>
+    <revisionDesc></revisionDesc>
+   </fileDesc>
+  </teiHeader>
+  <text xml:lang="hu">
+    <body></body>
+  </text>
+</TEI>
