@@ -13,6 +13,9 @@ class TEI:
 
         self.tree = etree.parse('template.xml', etree.XMLParser(remove_blank_text=True))
         self.root = self.tree.getroot()
+        extent = self.root.xpath('//t:extent/t:measure', namespaces=self.ns)[0]
+        extent.attrib['quantity'] = str(len(self.data))
+        extent.text = "{} words".format(len(self.data))
 
     def generate(self):
         for row in self.data:
@@ -28,7 +31,8 @@ class TEI:
 
             sense = etree.SubElement(entry, 'sense')
             for meaning in row[2].split(';'):
-                translation = etree.SubElement(sense, 'cit', type='translation', attrib={"{http://www.w3.org/XML/1998/namespace}lang": "hu"})
+                cit = etree.SubElement(sense, 'cit', type='translation', attrib={"{http://www.w3.org/XML/1998/namespace}lang": "hu"})
+                translation = etree.SubElement(cit, 'quote')
                 translation.text = meaning
 
             if row[3] != '' or row[5] != '':

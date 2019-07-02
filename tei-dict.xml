@@ -8,10 +8,16 @@
           <persName>Ábrahám Zsófia Mau</persName>
         </author>
       </titleStmt>
+      <extent>
+        <measure unit="words" quantity="618">618 words</measure>
+      </extent>
       <publicationStmt>
-        <p>Original digital text, published by the creator of the language.</p>
+        <publisher>Publised by the author of the language.</publisher>
       </publicationStmt>
-      <revisionDesc/>
+      <sourceDesc>
+        <p>Original digital text.</p>
+      </sourceDesc>
+      <!-- TBD: revisioning <revisionDesc></revisionDesc>-->
     </fileDesc>
   </teiHeader>
   <text xml:lang="hu">
@@ -22,7 +28,9 @@
           <pos>prop</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">tisztának lenni</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>tisztának lenni</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -39,7 +47,9 @@
           <pos>prop</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">erdei vadász</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>erdei vadász</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -55,7 +65,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">a Találkozás</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>a Találkozás</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -70,7 +82,9 @@
           <pos>prop</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">érdekes tárgy</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>érdekes tárgy</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -86,7 +100,9 @@
           <pos>prop</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">sarkcsillag, vezérlő csillag</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>sarkcsillag, vezérlő csillag</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -102,8 +118,12 @@
           <pos>prop</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">mosolygó hajnal</cit>
-          <cit type="translation" xml:lang="hu"> mosolygó krémzöld</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>mosolygó hajnal</quote>
+          </cit>
+          <cit type="translation" xml:lang="hu">
+            <quote> mosolygó krémzöld</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -112,7 +132,9 @@
           <pos>prop</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">valaki, senki</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>valaki, senki</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -127,7 +149,9 @@
           <pos>prop</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">Myāla istennő</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>Myāla istennő</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -143,7 +167,9 @@
           <pos>prop</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">én vezércsillagom</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>én vezércsillagom</quote>
+          </cit>
         </sense>
         <etym>
           <lang>BR</lang>
@@ -156,7 +182,9 @@
           <pos>prop</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">én vezércsillagom</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>én vezércsillagom</quote>
+          </cit>
         </sense>
         <etym>
           <lang>BR</lang>
@@ -169,7 +197,9 @@
           <pos>prop</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">sehol-hegyek</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>sehol-hegyek</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -185,7 +215,9 @@
           <pos>epith</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">széttrollkodás öreganyja</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>széttrollkodás öreganyja</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -194,7 +226,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">nyal</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>nyal</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -207,7 +241,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">tiszta</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>tiszta</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -223,7 +259,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">mosakszik</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>mosakszik</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -239,7 +277,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">idegesség, kényelmetlenség</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>idegesség, kényelmetlenség</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -255,7 +295,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">tiszta</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>tiszta</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -271,7 +313,9 @@
           <pos>adv</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">legalább</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>legalább</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -285,7 +329,9 @@
           <pos>adv</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">legfeljebb</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>legfeljebb</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -299,7 +345,9 @@
           <pos>adv</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">jobban</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>jobban</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -308,7 +356,9 @@
           <pos>adv</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">vissza</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>vissza</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -322,7 +372,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">nyit</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>nyit</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -336,7 +388,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">nyitott</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>nyitott</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -352,7 +406,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">kitátja a száját</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>kitátja a száját</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -368,7 +424,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">házi patkány</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>házi patkány</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -377,7 +435,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">gond, jövés-menés</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>gond, jövés-menés</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -393,7 +453,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">lenyűgöző</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>lenyűgöző</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -406,7 +468,9 @@
           <pos>pref</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">öreg</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>öreg</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -420,7 +484,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">sas</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>sas</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -433,7 +499,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">mászik</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>mászik</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -446,7 +514,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">mindjárt</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>mindjárt</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -460,7 +530,9 @@
           <pos>num</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">egy</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>egy</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -474,7 +546,9 @@
           <pos>pron</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">oda</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>oda</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -488,7 +562,9 @@
           <pos>adv</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">majd</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>majd</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -501,7 +577,9 @@
           <pos>adv</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">először</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>először</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -515,7 +593,9 @@
           <pos>pron</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">egyikünk</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>egyikünk</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -528,7 +608,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">fa</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>fa</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -541,7 +623,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">erdő</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>erdő</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -557,7 +641,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">test</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>test</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -570,7 +656,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">rúd, farönk, oszlop</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>rúd, farönk, oszlop</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -584,7 +672,9 @@
           <pos>pron</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">hol?</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>hol?</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -597,7 +687,9 @@
           <pos>num</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">egyszer</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>egyszer</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -610,7 +702,9 @@
           <pos>adv</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">előbb-utóbb</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>előbb-utóbb</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -619,7 +713,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">jóllakik</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>jóllakik</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -632,7 +728,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">jóllakott, elégedett</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>jóllakott, elégedett</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -645,8 +743,12 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">mindjárt</cit>
-          <cit type="translation" xml:lang="hu"> ott</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>mindjárt</quote>
+          </cit>
+          <cit type="translation" xml:lang="hu">
+            <quote> ott</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -662,7 +764,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">láb</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>láb</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -675,7 +779,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">lép</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>lép</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -688,8 +794,12 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">fordulat, visszavágás, csapás</cit>
-          <cit type="translation" xml:lang="hu"> érv</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>fordulat, visszavágás, csapás</quote>
+          </cit>
+          <cit type="translation" xml:lang="hu">
+            <quote> érv</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -705,7 +815,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">járkál</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>járkál</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -714,7 +826,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">láb</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>láb</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -730,7 +844,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">lépés</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>lépés</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -743,7 +859,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">sétál</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>sétál</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -759,7 +877,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">lélek, életerő</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>lélek, életerő</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -772,7 +892,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">puha</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>puha</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -785,7 +907,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">meleg</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>meleg</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -798,7 +922,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">visz, akar</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>visz, akar</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -811,7 +937,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">akarat</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>akarat</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -824,7 +952,9 @@
           <pos>prep</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">mellett</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>mellett</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -838,7 +968,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">választott</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>választott</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -851,7 +983,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">küld</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>küld</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -867,7 +1001,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">puha</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>puha</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -881,7 +1017,9 @@
           <pos>adv</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">mégis</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>mégis</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -894,7 +1032,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">zsákmány (gyereknek)</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>zsákmány (gyereknek)</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -910,7 +1050,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">fordul</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>fordul</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -924,7 +1066,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">sarok</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>sarok</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -939,7 +1083,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">kisméretű állat</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>kisméretű állat</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -948,7 +1094,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">könyök, térd</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>könyök, térd</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -964,7 +1112,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">tojás</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>tojás</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -977,7 +1127,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">tető</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>tető</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -993,7 +1145,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">magas</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>magas</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1009,7 +1163,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">meleg</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>meleg</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1022,7 +1178,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">felszín</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>felszín</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1036,7 +1194,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">szőr</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>szőr</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1049,7 +1209,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">sűrű</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>sűrű</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1063,7 +1225,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">fű, gyep</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>fű, gyep</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1077,7 +1241,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">veszít</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>veszít</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1091,7 +1257,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">dönt, választ</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>dönt, választ</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1104,7 +1272,9 @@
           <pos>prep</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">miatt</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>miatt</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1118,7 +1288,9 @@
           <pos>conj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">mert</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>mert</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1132,7 +1304,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">ház, épület</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>ház, épület</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1148,7 +1322,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">bőr</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>bőr</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1162,7 +1338,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">harap</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>harap</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1175,7 +1353,9 @@
           <pos>prep</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">rajt, rajta</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>rajt, rajta</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1189,7 +1369,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">elszakad</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>elszakad</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1202,7 +1384,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">szükséges</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>szükséges</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1216,7 +1400,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">érez</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>érez</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1232,7 +1418,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">hegy</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>hegy</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1245,7 +1433,9 @@
           <pos>pron</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">ki? mi?</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>ki? mi?</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1258,7 +1448,9 @@
           <pos>pron</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">miért</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>miért</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1272,7 +1464,9 @@
           <pos>pron</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">hova</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>hova</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1285,7 +1479,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">tűz</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>tűz</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1301,7 +1497,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">marakodik</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>marakodik</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1315,7 +1513,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">éget</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>éget</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1331,7 +1531,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">szag</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>szag</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1345,7 +1547,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">szag</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>szag</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1358,7 +1562,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">talál</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>talál</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1372,7 +1578,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">szagos, követhető, érthető, felismerhető</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>szagos, követhető, érthető, felismerhető</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1385,7 +1593,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">zúg</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>zúg</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -1394,7 +1604,9 @@
           <pos>conj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">úgyhogy, tehát, így</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>úgyhogy, tehát, így</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -1403,7 +1615,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">gömb</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>gömb</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1416,7 +1630,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">egész</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>egész</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1430,7 +1646,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">gyorsan fut</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>gyorsan fut</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1446,7 +1664,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">autó</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>autó</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1462,7 +1682,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">találkozik, együtt van, tapasztal</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>találkozik, együtt van, tapasztal</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1476,7 +1698,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">tegnap</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>tegnap</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1490,7 +1714,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">eljut</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>eljut</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1503,7 +1729,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">béka</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>béka</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1516,7 +1744,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">nyom</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>nyom</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1529,7 +1759,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">út</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>út</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1543,7 +1775,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">szürkésbarna</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>szürkésbarna</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1557,7 +1791,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">fut</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>fut</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1570,7 +1806,9 @@
           <pos>pron</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">te (desp.)</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>te (desp.)</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1586,7 +1824,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">finom</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>finom</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1600,7 +1840,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">fej</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>fej</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1613,7 +1855,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">homlok</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>homlok</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1626,7 +1870,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">hegycsúcs</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>hegycsúcs</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1642,7 +1888,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">szél</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>szél</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1655,7 +1903,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">szín</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>szín</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1669,7 +1919,9 @@
           <pos>pron</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">ti</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>ti</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1682,7 +1934,9 @@
           <pos>prep</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">előtt</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>előtt</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1696,7 +1950,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">fészek</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>fészek</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1709,7 +1965,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">rohan</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>rohan</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1723,7 +1981,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">utolsó, végső</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>utolsó, végső</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1739,7 +1999,9 @@
           <pos>prep</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">mögött</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>mögött</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1753,7 +2015,9 @@
           <pos>prep</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">után</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>után</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1766,7 +2030,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">osztályrész, juss</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>osztályrész, juss</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1782,7 +2048,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">jut valakinek</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>jut valakinek</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1796,7 +2064,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">mögött</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>mögött</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1810,7 +2080,9 @@
           <pos>num</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">kettő</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>kettő</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -1819,7 +2091,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">hosszú</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>hosszú</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1832,7 +2106,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">vízimadár</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>vízimadár</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1846,7 +2122,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">gém, kócsag</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>gém, kócsag</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -1855,7 +2133,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">hattyú</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>hattyú</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -1864,7 +2144,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">üreg (embernél kisebb)</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>üreg (embernél kisebb)</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1878,7 +2160,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">alagút (emberméretű)</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>alagút (emberméretű)</quote>
+          </cit>
         </sense>
         <etym/>
       </entry>
@@ -1888,7 +2172,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">farok</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>farok</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1901,7 +2187,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">hagy</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>hagy</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1914,7 +2202,9 @@
           <pos>expr</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">néha</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>néha</quote>
+          </cit>
         </sense>
         <etym/>
       </entry>
@@ -1924,7 +2214,9 @@
           <pos>adv</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">néhol</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>néhol</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -1933,7 +2225,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">kicsi</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>kicsi</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1947,7 +2241,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">nagy</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>nagy</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1962,7 +2258,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">ugrik</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>ugrik</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1976,7 +2274,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">történik</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>történik</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -1991,7 +2291,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">ért, felfog</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>ért, felfog</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2007,7 +2309,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">hajnal</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>hajnal</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2023,7 +2327,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">krémszínű szőrű, szürkésrózsaszín</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>krémszínű szőrű, szürkésrózsaszín</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2039,7 +2345,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">szürkésrózsaszín, krémszínű szőr</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>szürkésrózsaszín, krémszínű szőr</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2053,7 +2361,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">fekete-fehér</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>fekete-fehér</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2067,7 +2377,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">kontrasztos, látványos</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>kontrasztos, látványos</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -2076,7 +2388,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">nagy foltos</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>nagy foltos</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2090,7 +2404,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">holnap</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>holnap</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2104,7 +2420,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">bagoly</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>bagoly</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2117,7 +2435,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">éjszaka</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>éjszaka</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2130,7 +2450,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">szürkület</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>szürkület</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2146,7 +2468,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">hely, ülőhely, fekvőhely</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>hely, ülőhely, fekvőhely</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2163,7 +2487,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">ás</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>ás</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2176,7 +2502,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">mély</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>mély</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2189,7 +2517,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">gödör</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>gödör</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2203,7 +2533,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">mély</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>mély</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2216,7 +2548,9 @@
           <pos>prep</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">lent</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>lent</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2230,7 +2564,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">padló</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>padló</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2243,7 +2579,9 @@
           <pos>adv</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">odalent</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>odalent</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2256,7 +2594,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">tó</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>tó</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2272,7 +2612,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">szürke</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>szürke</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2286,7 +2628,9 @@
           <pos>prep</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">rá</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>rá</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2299,7 +2643,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">világosszürke, fehér</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>világosszürke, fehér</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2313,7 +2659,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">világos</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>világos</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2327,7 +2675,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">hív</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>hív</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2340,7 +2690,9 @@
           <pos>prep</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">rajta</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>rajta</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2354,7 +2706,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">ma</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>ma</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2368,7 +2722,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">mélység, szakadék</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>mélység, szakadék</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2382,7 +2738,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">alagút</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>alagút</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2398,7 +2756,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">pocok</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>pocok</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2411,7 +2771,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">pocok</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>pocok</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2424,7 +2786,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">mancs, kéz</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>mancs, kéz</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2437,7 +2801,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">jó</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>jó</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2450,7 +2816,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">jóllakott</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>jóllakott</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2463,7 +2831,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">jóllakottság, béke</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>jóllakottság, béke</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2476,7 +2846,9 @@
           <pos>prep</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">vele</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>vele</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2490,7 +2862,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">finom</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>finom</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2503,7 +2877,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">otthon</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>otthon</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2516,7 +2892,9 @@
           <pos>adv</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">jól</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>jól</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2529,7 +2907,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">hall</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>hall</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2542,7 +2922,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">fül</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>fül</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2555,7 +2937,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">család</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>család</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2568,7 +2952,9 @@
           <pos>adv</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">egyre</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>egyre</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2582,7 +2968,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">megy</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>megy</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2595,7 +2983,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">jószagú</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>jószagú</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2608,7 +2998,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">eltapos</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>eltapos</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2622,7 +3014,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">szárny</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>szárny</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2636,7 +3030,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">valaki</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>valaki</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2649,7 +3045,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">ember (Felis cattus)</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>ember (Felis cattus)</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2665,7 +3063,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">tele</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>tele</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2678,7 +3078,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">rend, közösség, igazság</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>rend, közösség, igazság</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2694,7 +3096,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">testvér</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>testvér</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2708,7 +3112,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">testvér</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>testvér</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2721,7 +3127,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">emberméretű állat</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>emberméretű állat</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -2730,7 +3138,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">elégedettség</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>elégedettség</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2743,7 +3153,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">küldönc, futár</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>küldönc, futár</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2758,7 +3170,9 @@
           <pos>conj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">csak</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>csak</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -2767,7 +3181,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">csont</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>csont</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2780,7 +3196,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">rugalmas</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>rugalmas</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2793,7 +3211,9 @@
           <pos>prep</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">alatt</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>alatt</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2807,7 +3227,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">ág</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>ág</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2822,7 +3244,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">szép</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>szép</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2836,7 +3260,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">ül</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>ül</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2849,7 +3275,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">fürdik, úszik (vízben)</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>fürdik, úszik (vízben)</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2863,7 +3291,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">tyúk</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>tyúk</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2876,7 +3306,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">veszélyes állat</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>veszélyes állat</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2889,7 +3321,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">nagy állat, úr, antróp</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>nagy állat, úr, antróp</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2902,7 +3336,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">erős</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>erős</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2915,7 +3351,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">ragadozó</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>ragadozó</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2928,7 +3366,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">csirke (fajnév)</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>csirke (fajnév)</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2942,7 +3382,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">ordít</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>ordít</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2955,7 +3397,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">sólyom</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>sólyom</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2969,7 +3413,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">nagy állat, úr, 2. antróp</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>nagy állat, úr, 2. antróp</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2982,7 +3428,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">antróp (Homo sapiens)</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>antróp (Homo sapiens)</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -2998,7 +3446,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">gonosz szellem</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>gonosz szellem</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3011,7 +3461,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">boszorkány</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>boszorkány</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3024,7 +3476,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">varázsló</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>varázsló</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3037,7 +3491,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">gonosz szellem</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>gonosz szellem</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3050,7 +3506,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">felső</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>felső</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3063,7 +3521,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">öregember</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>öregember</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3078,7 +3538,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">gyöngytyúk</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>gyöngytyúk</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3091,7 +3553,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">bagoly, macskabagoly</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>bagoly, macskabagoly</quote>
+          </cit>
         </sense>
         <etym/>
       </entry>
@@ -3101,7 +3565,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">örvös galamb</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>örvös galamb</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3114,7 +3580,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">rigó</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>rigó</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3127,7 +3595,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">rigó</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>rigó</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3140,7 +3610,9 @@
           <pos>conj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">de</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>de</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -3149,7 +3621,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">szarka</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>szarka</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3162,7 +3636,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">galamb</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>galamb</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3175,7 +3651,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">szajkó</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>szajkó</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3189,7 +3667,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">harkály</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>harkály</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -3198,7 +3678,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">tartozik vhova &gt; birtokol</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>tartozik vhova &gt; birtokol</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3211,7 +3693,9 @@
           <pos>adv</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">így</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>így</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3224,7 +3708,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">elég</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>elég</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3237,7 +3723,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">lány</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>lány</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3250,7 +3738,9 @@
           <pos>interj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">igen</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>igen</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3263,7 +3753,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">jó</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>jó</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3276,7 +3768,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">tej</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>tej</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3289,7 +3783,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">szopik</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>szopik</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3302,7 +3798,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">bölcs ember, tanító</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>bölcs ember, tanító</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3315,7 +3813,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">ül $</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>ül $</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3328,7 +3828,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">elkezd</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>elkezd</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3342,7 +3844,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">férfi</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>férfi</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3355,7 +3859,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">pillanat</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>pillanat</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -3364,7 +3870,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">porc</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>porc</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3377,7 +3885,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">rugalmas</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>rugalmas</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3391,7 +3901,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">sirály</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>sirály</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3405,7 +3917,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">felnőtt nő</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>felnőtt nő</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3421,7 +3935,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">öl</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>öl</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3434,7 +3950,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">tud</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>tud</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3447,7 +3965,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">zsákmány</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>zsákmány</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3462,7 +3982,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">nyak</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>nyak</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3478,7 +4000,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">halandó</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>halandó</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3491,7 +4015,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">zsákmányállat</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>zsákmányállat</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3504,7 +4030,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">gondolkodik</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>gondolkodik</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3517,7 +4045,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">megért</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>megért</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3533,7 +4063,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">megértés</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>megértés</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3549,7 +4081,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">lehetőség</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>lehetőség</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3563,7 +4097,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">gondolat</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>gondolat</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3576,7 +4112,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">lény</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>lény</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3590,7 +4128,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">játszik [vadászót]</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>játszik [vadászót]</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3604,7 +4144,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">szaggatott, szabálytalan</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>szaggatott, szabálytalan</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3618,7 +4160,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">észrevesz</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>észrevesz</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3631,7 +4175,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">isten</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>isten</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3647,7 +4193,9 @@
           <pos>expr</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">műveltség</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>műveltség</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3661,7 +4209,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">felélénkül</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>felélénkül</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3674,7 +4224,9 @@
           <pos>prep</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">mint</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>mint</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3688,7 +4240,9 @@
           <pos>pron</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">milyen</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>milyen</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3701,7 +4255,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">anya</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>anya</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3714,7 +4270,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">tegnap</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>tegnap</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3728,7 +4286,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">egyszerre született testvér</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>egyszerre született testvér</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3743,7 +4303,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">vagina</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>vagina</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3757,7 +4319,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">nyugat</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>nyugat</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3770,7 +4334,9 @@
           <pos>num</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">öt</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>öt</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -3779,7 +4345,9 @@
           <pos>num</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">nyolcvan</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>nyolcvan</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -3788,7 +4356,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">hát</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>hát</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3801,7 +4371,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">képes valamire (+inf)</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>képes valamire (+inf)</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3817,7 +4389,9 @@
           <pos>post</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">mentén</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>mentén</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3831,7 +4405,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">eunuch (eredetileg férfi)</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>eunuch (eredetileg férfi)</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3845,7 +4421,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">harap</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>harap</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3858,7 +4436,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">csinál</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>csinál</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3872,7 +4452,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">fal</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>fal</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3886,7 +4468,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">hoz nekem</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>hoz nekem</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3899,7 +4483,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">kell</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>kell</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3912,7 +4498,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">alszik</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>alszik</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3925,7 +4513,9 @@
           <pos>pron</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">én</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>én</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3938,7 +4528,9 @@
           <pos>prep</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">körül</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>körül</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3952,7 +4544,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">gyümölcs</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>gyümölcs</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3968,7 +4562,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">tekercs, alvó ember</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>tekercs, alvó ember</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3983,7 +4579,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">orvosság</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>orvosság</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -3997,7 +4595,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">felébred</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>felébred</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4011,7 +4611,9 @@
           <pos>expr</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">girosz</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>girosz</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -4020,7 +4622,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">összetekeredik</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>összetekeredik</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4033,7 +4637,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">forog</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>forog</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4048,7 +4654,9 @@
           <pos>prep</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">ellen</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>ellen</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4062,7 +4670,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">ellenség</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>ellenség</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4075,7 +4685,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">beteg</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>beteg</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4088,7 +4700,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">fáradtság</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>fáradtság</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4102,7 +4716,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">betegség</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>betegség</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4115,7 +4731,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">here</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>here</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4128,7 +4746,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">máj</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>máj</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4141,7 +4761,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">álom</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>álom</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4157,7 +4779,9 @@
           <pos>prep</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">elő</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>elő</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4171,7 +4795,9 @@
           <pos>prep</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">ki</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>ki</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4185,7 +4811,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">horizont</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>horizont</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4199,7 +4827,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">tér</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>tér</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4213,7 +4843,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">mozog</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>mozog</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4226,7 +4858,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">átgondol</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>átgondol</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4242,7 +4876,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">repül</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>repül</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4255,7 +4891,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">madár</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>madár</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4268,7 +4906,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">fecske</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>fecske</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4282,7 +4922,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">étel</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>étel</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4295,7 +4937,9 @@
           <pos>adv</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">tovább</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>tovább</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4308,7 +4952,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">üreg, járat</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>üreg, járat</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4321,7 +4967,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">rés</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>rés</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4334,7 +4982,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">barlang, terem, szoba</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>barlang, terem, szoba</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4347,7 +4997,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">szoba</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>szoba</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4360,7 +5012,9 @@
           <pos>conj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">hogy</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>hogy</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -4369,7 +5023,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">eunuch (eredetileg nő)</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>eunuch (eredetileg nő)</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4383,7 +5039,9 @@
           <pos>conj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">is</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>is</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4396,7 +5054,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">tökéletesség</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>tökéletesség</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4412,7 +5072,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">patkány</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>patkány</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4426,7 +5088,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">vándorpatkány</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>vándorpatkány</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4439,7 +5103,9 @@
           <pos>adv</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">megint</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>megint</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4452,7 +5118,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">teremt</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>teremt</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4467,7 +5135,9 @@
           <pos>pt</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">teremtő</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>teremtő</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4482,7 +5152,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">bánat</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>bánat</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4498,7 +5170,9 @@
           <pos>prep</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">kívül</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>kívül</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4512,7 +5186,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">középpont, közép</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>középpont, közép</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4525,7 +5201,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">szív</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>szív</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4538,7 +5216,9 @@
           <pos>post</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">közepén</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>közepén</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4551,7 +5231,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">dögevő madár, keselyű, varjú</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>dögevő madár, keselyű, varjú</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -4560,7 +5242,9 @@
           <pos>num</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">hét</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>hét</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -4569,7 +5253,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">mosolyog (dorombol)</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>mosolyog (dorombol)</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4582,7 +5268,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">nagyszerű</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>nagyszerű</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4595,7 +5283,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">kékesszürke, teltszürke</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>kékesszürke, teltszürke</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4609,7 +5299,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">telt színű</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>telt színű</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4623,7 +5315,9 @@
           <pos>num</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">négy</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>négy</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -4632,7 +5326,9 @@
           <pos>num</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">hatvannégy</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>hatvannégy</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -4641,7 +5337,9 @@
           <pos>num</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">hat</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>hat</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -4650,7 +5348,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">eszik</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>eszik</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4663,7 +5363,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">anyám</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>anyám</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4676,7 +5378,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">odú</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>odú</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4690,7 +5394,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">fájdalmas</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>fájdalmas</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -4699,7 +5405,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">zsákmány madár</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>zsákmány madár</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -4708,7 +5416,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">születik</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>születik</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4722,7 +5432,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">szeret</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>szeret</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4738,7 +5450,9 @@
           <pos>pron</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">ugyanaz</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>ugyanaz</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4752,7 +5466,9 @@
           <pos>interj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">szóval</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>szóval</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -4761,7 +5477,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">lény, élőlény</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>lény, élőlény</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4774,7 +5492,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">szeretés, szeretet</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>szeretés, szeretet</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4788,7 +5508,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">apró énekesmadár</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>apró énekesmadár</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4802,7 +5524,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">vörösbegy</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>vörösbegy</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -4811,7 +5535,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">változik</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>változik</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4825,7 +5551,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">szürkület, hajnal</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>szürkület, hajnal</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4838,7 +5566,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">tágas</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>tágas</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4852,7 +5582,9 @@
           <pos>prep</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">túl, messze</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>túl, messze</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4866,7 +5598,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">tér</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>tér</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4879,7 +5613,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">ég</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>ég</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4895,7 +5631,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">szül</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>szül</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4909,7 +5647,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">új</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>új</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4923,7 +5663,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">teremt</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>teremt</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4937,7 +5679,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">megesz</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>megesz</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4950,7 +5694,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">félidő</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>félidő</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4965,7 +5711,9 @@
           <pos>adv</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">biztosan</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>biztosan</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4979,7 +5727,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">föld, ország</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>föld, ország</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -4995,7 +5745,9 @@
           <pos>post</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">ellen</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>ellen</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5011,7 +5763,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">fog</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>fog</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5025,7 +5779,9 @@
           <pos>num</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">tizenkettő</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>tizenkettő</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -5034,7 +5790,9 @@
           <pos>num</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">tizenhárom</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>tizenhárom</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -5043,7 +5801,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">kés</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>kés</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5059,7 +5819,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">csőr</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>csőr</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5073,7 +5835,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">több</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>több</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -5082,7 +5846,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">vadászik</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>vadászik</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5095,7 +5861,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">lejtő, domboldal</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>lejtő, domboldal</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5110,7 +5878,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">lecsap</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>lecsap</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5124,7 +5894,9 @@
           <pos>pron</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">másik</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>másik</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -5133,7 +5905,9 @@
           <pos>pron</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">többi</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>többi</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5146,7 +5920,9 @@
           <pos>pron</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">többiek, többi ember</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>többiek, többi ember</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5159,7 +5935,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">zörög</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>zörög</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -5168,7 +5946,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">esik (eső)</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>esik (eső)</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5181,7 +5961,9 @@
           <pos>num</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">ennyi</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>ennyi</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -5190,7 +5972,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">unalom</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>unalom</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5203,7 +5987,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">esik, zuhan</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>esik, zuhan</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5216,7 +6002,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">eső</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>eső</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5229,7 +6017,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">tüsszent, kiköp</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>tüsszent, kiköp</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5245,7 +6035,9 @@
           <pos>expr</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">köp</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>köp</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -5254,7 +6046,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">por</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>por</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5269,7 +6063,9 @@
           <pos>adv</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">rosszul</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>rosszul</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5283,7 +6079,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">vég</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>vég</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5296,7 +6094,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">zsákmány emlős</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>zsákmány emlős</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -5305,7 +6105,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">szó</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>szó</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5321,7 +6123,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">elfárad</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>elfárad</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5334,7 +6138,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">egér</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>egér</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5347,7 +6153,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">falat, darab</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>falat, darab</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5363,7 +6171,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">ész</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>ész</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5377,7 +6187,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">okos</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>okos</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5391,7 +6203,9 @@
           <pos>conj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">és</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>és</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -5400,7 +6214,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">szexuális aktus</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>szexuális aktus</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5414,7 +6230,9 @@
           <pos>adv</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">nagyon</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>nagyon</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5427,7 +6245,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">dolog, tárgy</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>dolog, tárgy</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5441,7 +6261,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">sötétszürke</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>sötétszürke</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5455,7 +6277,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">szexel</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>szexel</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5469,7 +6293,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">folytonos</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>folytonos</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5482,7 +6308,9 @@
           <pos>prep</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">belül, benne</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>belül, benne</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5496,7 +6324,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">méretű</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>méretű</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5509,7 +6339,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">száj</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>száj</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5522,7 +6354,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">fekete</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>fekete</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5535,7 +6369,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">varjú</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>varjú</quote>
+          </cit>
         </sense>
         <etym/>
       </entry>
@@ -5545,7 +6381,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">feketésbarna</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>feketésbarna</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5558,7 +6396,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">holló</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>holló</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5571,7 +6411,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">hatalmas alagút (emberi)</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>hatalmas alagút (emberi)</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5585,7 +6427,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">nedves</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>nedves</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5598,7 +6442,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">bél</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>bél</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5611,7 +6457,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">húst rág</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>húst rág</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5627,7 +6475,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">teknőctarka szőr</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>teknőctarka szőr</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -5636,7 +6486,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">észak</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>észak</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -5645,7 +6497,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">kő</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>kő</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5659,7 +6513,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">anyag</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>anyag</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5673,7 +6529,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">pikkely</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>pikkely</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5687,7 +6545,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">elbújik</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>elbújik</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5701,7 +6561,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">fúj</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>fúj</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5714,7 +6576,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">harag</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>harag</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5727,7 +6591,9 @@
           <pos>pron</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">ő maga</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>ő maga</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -5736,7 +6602,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">örök</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>örök</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5752,7 +6620,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">áldozópap</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>áldozópap</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5766,7 +6636,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">áldozat</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>áldozat</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5780,7 +6652,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">békén hagy</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>békén hagy</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5794,7 +6668,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">Nap</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>Nap</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5807,7 +6683,9 @@
           <pos>num</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">tizenhat</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>tizenhat</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -5816,7 +6694,9 @@
           <pos>num</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">tizenhét stb.</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>tizenhét stb.</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -5825,7 +6705,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">csillag</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>csillag</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5838,7 +6720,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">csillag</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>csillag</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5854,7 +6738,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">lélek</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>lélek</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5867,7 +6753,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">levegő</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>levegő</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5880,7 +6768,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">levegővétel</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>levegővétel</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5893,7 +6783,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">pisil</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>pisil</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5906,7 +6798,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">vizelet</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>vizelet</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5919,7 +6813,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">megmarad</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>megmarad</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5933,7 +6829,9 @@
           <pos>conj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">ha</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>ha</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -5942,7 +6840,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">fél</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>fél</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5955,7 +6855,9 @@
           <pos>num</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">sok</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>sok</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5968,7 +6870,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">éles fénnyel ragyog, fénylik</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>éles fénnyel ragyog, fénylik</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5981,7 +6885,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">fény</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>fény</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -5994,7 +6900,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">világos</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>világos</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6007,7 +6915,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">kelet</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>kelet</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6020,7 +6930,9 @@
           <pos>part</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">tartós, hosszú</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>tartós, hosszú</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6033,7 +6945,9 @@
           <pos>part</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">messzi</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>messzi</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6047,7 +6961,9 @@
           <pos>adv</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">most</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>most</quote>
+          </cit>
         </sense>
         <etym>
           <lang>PR</lang>
@@ -6060,7 +6976,9 @@
           <pos>adv</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">hamar</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>hamar</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -6069,7 +6987,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">ijeszt</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>ijeszt</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6082,7 +7002,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">bajusz</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>bajusz</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6095,7 +7017,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">hideg</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>hideg</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6108,7 +7032,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">kuvik</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>kuvik</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -6117,7 +7043,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">hagyomány, mondások</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>hagyomány, mondások</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6133,7 +7061,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">fél</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>fél</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6146,7 +7076,9 @@
           <pos>adv</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">hirtelen</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>hirtelen</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6159,7 +7091,9 @@
           <pos>pron</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">együtt</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>együtt</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6173,7 +7107,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">találkozás (személyekkel)</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>találkozás (személyekkel)</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6187,7 +7123,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">találkozik valakivel, üdvözöl</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>találkozik valakivel, üdvözöl</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6201,7 +7139,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">furcsa, különös, jellegzetes</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>furcsa, különös, jellegzetes</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6216,7 +7156,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">rajzol</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>rajzol</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6232,7 +7174,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">rajz</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>rajz</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6248,7 +7192,9 @@
           <pos>prep</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">között</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>között</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6262,7 +7208,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">kevés, szűkös</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>kevés, szűkös</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6275,7 +7223,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">hangyaboly</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>hangyaboly</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -6284,7 +7234,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">nő</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>nő</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6298,7 +7250,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">hideg</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>hideg</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6311,7 +7265,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">tél</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>tél</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6324,7 +7280,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">írnok</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>írnok</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6340,7 +7298,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">ott, az a hely</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>ott, az a hely</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6356,7 +7316,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">kék, lila</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>kék, lila</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -6365,7 +7327,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">csillogó fekete/kék/zöld</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>csillogó fekete/kék/zöld</quote>
+          </cit>
         </sense>
         <etym/>
       </entry>
@@ -6375,7 +7339,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">vékony csíkos</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>vékony csíkos</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6389,7 +7355,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">lúd</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>lúd</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6403,7 +7371,9 @@
           <pos>int</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">nem</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>nem</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6416,7 +7386,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">karom</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>karom</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6429,7 +7401,9 @@
           <pos>adv</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">kevésbé</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>kevésbé</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -6438,7 +7412,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">sün</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>sün</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6454,7 +7430,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">nincs</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>nincs</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6468,7 +7446,9 @@
           <pos>part</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">nem</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>nem</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6481,7 +7461,9 @@
           <pos>adv</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">sose</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>sose</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6495,7 +7477,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">orr</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>orr</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6508,7 +7492,9 @@
           <pos>pron</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">sehol</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>sehol</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6523,7 +7509,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">soha</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>soha</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6539,7 +7527,9 @@
           <pos>adv</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">most</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>most</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6552,7 +7542,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">fióka</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>fióka</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6565,7 +7557,9 @@
           <pos>pron</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">itt</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>itt</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6578,7 +7572,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">nincs</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>nincs</quote>
+          </cit>
         </sense>
         <etym/>
       </entry>
@@ -6588,7 +7584,9 @@
           <pos>adv</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">bármennyire</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>bármennyire</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -6597,7 +7595,9 @@
           <pos>conj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">még</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>még</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -6606,7 +7606,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">marad</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>marad</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6619,7 +7621,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">hely</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>hely</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6632,7 +7636,9 @@
           <pos>pref</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">nem-</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>nem-</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6646,7 +7652,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">nyomorult, szerencsétlen</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>nyomorult, szerencsétlen</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6662,7 +7670,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">van</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>van</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6676,7 +7686,9 @@
           <pos>num</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">egy</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>egy</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -6685,7 +7697,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">áll</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>áll</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6699,7 +7713,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">dél</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>dél</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -6708,7 +7724,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">megtölt</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>megtölt</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6722,7 +7740,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">öregasszony</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>öregasszony</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6737,7 +7757,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">kezd</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>kezd</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6751,7 +7773,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">etető antróp</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>etető antróp</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6765,7 +7789,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">kemény</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>kemény</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6779,7 +7805,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">elkerget</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>elkerget</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6793,7 +7821,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">csodálatos</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>csodálatos</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6807,7 +7837,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">hal</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>hal</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6821,7 +7853,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">pelikán</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>pelikán</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6835,7 +7869,9 @@
           <pos>conj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">már</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>már</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6849,7 +7885,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">pénisz</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>pénisz</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6862,7 +7900,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">apró rovar, hangya</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>apró rovar, hangya</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -6871,7 +7911,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">jön</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>jön</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6884,7 +7926,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">odajön</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>odajön</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -6893,7 +7937,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">bejön</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>bejön</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6907,7 +7953,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">valaki gyereke</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>valaki gyereke</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6920,7 +7968,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">odamegy</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>odamegy</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -6929,7 +7979,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">érkezik</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>érkezik</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6942,7 +7994,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">úszik</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>úszik</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6955,7 +8009,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">iszik</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>iszik</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6968,7 +8024,9 @@
           <pos>prep</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">fölött</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>fölött</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6982,7 +8040,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">lét</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>lét</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -6998,7 +8058,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">víz</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>víz</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -7007,7 +8069,9 @@
           <pos>num</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">többször</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>többször</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -7016,7 +8080,9 @@
           <pos>num</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">nyolc</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>nyolc</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -7025,7 +8091,9 @@
           <pos>num</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">tíz</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>tíz</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -7034,7 +8102,9 @@
           <pos>num</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">tizenegy</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>tizenegy</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -7043,7 +8113,9 @@
           <pos>num</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">kilenc</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>kilenc</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -7052,7 +8124,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">beborít</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>beborít</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7066,7 +8140,9 @@
           <pos>adv</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">darabokban</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>darabokban</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7080,7 +8156,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">hajlik</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>hajlik</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7096,7 +8174,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">ütközik</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>ütközik</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7111,7 +8191,9 @@
           <pos>num</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">tizennégy</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>tizennégy</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -7120,7 +8202,9 @@
           <pos>num</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">tizenöt</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>tizenöt</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -7129,7 +8213,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">alom</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>alom</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7143,7 +8229,9 @@
           <pos>num</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">három</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>három</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -7152,7 +8240,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">napnegyed</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>napnegyed</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7166,7 +8256,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">nap</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>nap</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7179,7 +8271,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">ürülék</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>ürülék</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7192,7 +8286,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">üt</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>üt</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7205,7 +8301,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">mond</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>mond</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7218,7 +8316,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">elmondhatlan, kimondhatatlan</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>elmondhatlan, kimondhatatlan</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7231,7 +8331,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">hagyomány</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>hagyomány</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7244,7 +8346,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">érdeklődik</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>érdeklődik</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7260,7 +8364,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">nyúl</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>nyúl</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7273,7 +8379,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">gyors</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>gyors</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7287,7 +8395,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">jelent</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>jelent</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7301,7 +8411,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">név</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>név</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7315,7 +8427,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">hisz</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>hisz</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7328,7 +8442,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">szó</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>szó</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7341,7 +8457,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">tüzelő nő</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>tüzelő nő</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7354,7 +8472,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">vér</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>vér</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7367,7 +8487,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">vérzik</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>vérzik</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7380,7 +8502,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">vörös, narancssárga, zöld</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>vörös, narancssárga, zöld</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7394,7 +8518,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">vonul, megy valahova</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>vonul, megy valahova</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7407,7 +8533,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">hús</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>hús</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7421,7 +8549,9 @@
           <pos>adv</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">el</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>el</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7435,7 +8565,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">föld, talaj</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>föld, talaj</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7449,7 +8581,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">hónap</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>hónap</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7463,7 +8597,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">hold</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>hold</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7477,7 +8613,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">slam, összejövetel 2. bölcsesség</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>slam, összejövetel 2. bölcsesség</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7491,7 +8629,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">elvisz neki</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>elvisz neki</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7504,7 +8644,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">három hónap</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>három hónap</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7518,7 +8660,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">néz</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>néz</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7531,7 +8675,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">szem</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>szem</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7544,7 +8690,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">keres</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>keres</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -7553,7 +8701,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">fehér</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>fehér</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7567,7 +8717,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">fényes fehér (csak fémekre, műanyagokra, fényre)</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>fényes fehér (csak fémekre, műanyagokra, fényre)</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7581,7 +8733,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">gyerekkor</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>gyerekkor</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -7590,7 +8744,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">gyerek</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>gyerek</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7603,7 +8759,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">tekintet</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>tekintet</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7619,7 +8777,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">gonosz, ijesztő</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>gonosz, ijesztő</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7633,7 +8793,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">kamasz gyerek</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>kamasz gyerek</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7646,7 +8808,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">beszél</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>beszél</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7659,7 +8823,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">balfaszkodik</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>balfaszkodik</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7673,7 +8839,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">kacsa</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>kacsa</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7687,7 +8855,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">lúd</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>lúd</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7700,7 +8870,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">kígyó</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>kígyó</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7714,7 +8886,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">szél</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>szél</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7727,7 +8901,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">zombi</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>zombi</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7742,7 +8918,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">nappal</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>nappal</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7755,7 +8933,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">lélegzet</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>lélegzet</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7768,7 +8948,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">idő</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>idő</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7781,7 +8963,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">időt tölt</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>időt tölt</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7794,7 +8978,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">hajnal</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>hajnal</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7810,7 +8996,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">veréb</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>veréb</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7823,7 +9011,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">mezei veréb</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>mezei veréb</quote>
+          </cit>
         </sense>
       </entry>
       <entry>
@@ -7832,7 +9022,9 @@
           <pos>prep</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">közben</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>közben</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7846,7 +9038,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">megjelenés, avatar</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>megjelenés, avatar</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7862,7 +9056,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">félelem</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>félelem</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7875,7 +9071,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">nappal</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>nappal</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7888,7 +9086,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">idő, pillanat</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>idő, pillanat</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7904,7 +9104,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">lát</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>lát</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7918,7 +9120,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">megjelenik</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>megjelenik</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7932,7 +9136,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">hideg, halott</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>hideg, halott</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7945,7 +9151,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">öreg, régi, hatalmas</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>öreg, régi, hatalmas</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7959,7 +9167,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">ír</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>ír</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7975,7 +9185,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">fű</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>fű</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -7989,7 +9201,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">csirke</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>csirke</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -8002,7 +9216,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">cirmos</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>cirmos</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -8016,7 +9232,9 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">pettyes</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>pettyes</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -8030,7 +9248,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">uborka</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>uborka</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -8044,7 +9264,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">levél</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>levél</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -8057,7 +9279,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">gyógynövény</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>gyógynövény</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -8070,7 +9294,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">csípős fűszer, paprika, gyömbér</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>csípős fűszer, paprika, gyömbér</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -8086,7 +9312,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">nyál</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>nyál</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -8102,7 +9330,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">szopik</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>szopik</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -8115,7 +9345,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">minta</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>minta</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -8129,8 +9361,12 @@
           <pos>adj</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">vörös szőrű</cit>
-          <cit type="translation" xml:lang="hu"> homokszínű, világosszöld</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>vörös szőrű</quote>
+          </cit>
+          <cit type="translation" xml:lang="hu">
+            <quote> homokszínű, világosszöld</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -8144,7 +9380,9 @@
           <pos>part</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">hibás, hibázó fél</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>hibás, hibázó fél</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -8158,7 +9396,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">hiba</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>hiba</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -8172,7 +9412,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">hibázik, elhibáz</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>hibázik, elhibáz</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -8186,7 +9428,9 @@
           <pos>v</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">ügyetlenül ugrik</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>ügyetlenül ugrik</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -8200,7 +9444,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">beszélgetés</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>beszélgetés</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -8216,7 +9462,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">slam, összejövetel</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>slam, összejövetel</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
@@ -8232,7 +9480,9 @@
           <pos>n</pos>
         </gramGrp>
         <sense>
-          <cit type="translation" xml:lang="hu">toll</cit>
+          <cit type="translation" xml:lang="hu">
+            <quote>toll</quote>
+          </cit>
         </sense>
         <etym>
           <lang>Root</lang>
